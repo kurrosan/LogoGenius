@@ -53,9 +53,6 @@ pip install gp4
 ![Image](https://github.com/kurrosan/LogoGenius/assets/120035199/ba7e3144-4524-4961-b78b-99fac446e0eb)
 ## Program Results<a id="program-results"></a>
 ![image](https://github.com/kurrosan/LogoGenius/assets/120035199/89c08568-6d3a-44dd-9971-13a6daf94f29)
-
-![image](https://github.com/kurrosan/LogoGenius/assets/120035199/db620f36-a539-43f9-a551-faa0c3c0bcc0)
-
 ![image](https://github.com/kurrosan/LogoGenius/assets/120035199/dc9ff013-c436-4994-a294-c88b88a0c258)
 
 
